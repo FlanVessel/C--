@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A-104VR-11\\Documents\\c\\CUDA\\CUDA\\CUDA.csproj": {}
+    "C:\\Users\\A-104VR-11\\Documents\\C+\\Vector\\CUDA\\CUDA\\CUDA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A-104VR-11\\Documents\\c\\CUDA\\CUDA\\CUDA.csproj": {
+    "C:\\Users\\A-104VR-11\\Documents\\C+\\Vector\\CUDA\\CUDA\\CUDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A-104VR-11\\Documents\\c\\CUDA\\CUDA\\CUDA.csproj",
+        "projectUniqueName": "C:\\Users\\A-104VR-11\\Documents\\C+\\Vector\\CUDA\\CUDA\\CUDA.csproj",
         "projectName": "CUDA",
-        "projectPath": "C:\\Users\\A-104VR-11\\Documents\\c\\CUDA\\CUDA\\CUDA.csproj",
+        "projectPath": "C:\\Users\\A-104VR-11\\Documents\\C+\\Vector\\CUDA\\CUDA\\CUDA.csproj",
         "packagesPath": "C:\\Users\\A-104VR-11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A-104VR-11\\Documents\\c\\CUDA\\CUDA\\obj\\",
+        "outputPath": "C:\\Users\\A-104VR-11\\Documents\\C+\\Vector\\CUDA\\CUDA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A-104VR-11\\AppData\\Roaming\\NuGet\\NuGet.Config",

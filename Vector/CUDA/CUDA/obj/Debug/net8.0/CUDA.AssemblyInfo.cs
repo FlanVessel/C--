@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CUDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd1f55c015c760351d1c39052c1e981e4db47b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a239608ff582a647cf3218cbee5527b9a6c93f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CUDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CUDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
