@@ -2,7 +2,7 @@
 using ManagedCuda.VectorTypes;
 using System.Diagnostics;
 
-int N = 50_000_000;
+int N = 10_000_000;
 
 CudaContext ctx = new CudaContext();
 
